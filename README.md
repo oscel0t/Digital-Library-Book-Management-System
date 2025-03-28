@@ -23,7 +23,7 @@ A simple Java-based **Library Management System** that allows librarians to **ad
 #### Option 2: Running via Terminal  
 1. Open a terminal and navigate to the `src/` directory:  
    ```sh
-   cd path/to/LibraryManagement/src
+   cd path/to/Digital-Library-Book-Management-System/src
 
 Compile the Java files:
 javac *.java
